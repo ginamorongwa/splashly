@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+# Expo
+apps/mobile/.expo/
+apps/mobile/dist/
+apps/mobile/ios/
+apps/mobile/android/
+# Next.js
+apps/web/.next/
+apps/web/out/
+apps/web/next-env.d.ts
+# Supabase
+supabase/.branches/
+supabase/.temp/
