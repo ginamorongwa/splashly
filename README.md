@@ -1,5 +1,7 @@
 # Splashly
 
+By Morongwa Software Solutions (MSS).
+
 Car wash booking for South Africa. Customers find nearby car wash outlets, book a
 wash at the outlet or have mobile washers come to them, and pay by card, instant
 EFT, scan-to-pay, cash, or a bank transfer straight to the outlet. Outlets manage

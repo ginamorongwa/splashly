@@ -113,7 +113,7 @@ export default function SettingsScreen() {
         }
       />
       <ThemedText type="small" themeColor="textSecondary" style={{ textAlign: 'center' }}>
-        Splashly 1.0
+        Splashly 1.0{'\n'}by Morongwa Software Solutions (MSS)
       </ThemedText>
     </Screen>
   );

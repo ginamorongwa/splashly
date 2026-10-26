@@ -58,7 +58,9 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="text-sm text-muted">© Splashly</footer>
+      <footer className="text-sm text-muted">
+        © 2026 Splashly, by Morongwa Software Solutions (MSS)
+      </footer>
     </main>
   );
 }
